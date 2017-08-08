@@ -1,5 +1,5 @@
 {
-  "name": "alexa_linkedaccounttwitter",
+  "name": "alexa-skill-linked-account-twitter-nodejs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eercanayar/alexa_linkedAccountTwitter.git"
+    "url": "git+https://github.com/eercanayar/alexa-skill-linked-account-twitter-nodejs.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/eercanayar/alexa_linkedAccountTwitter/issues"
+    "url": "https://github.com/eercanayar/alexa-skill-linked-account-twitter-nodejs/issues"
   },
-  "homepage": "https://github.com/eercanayar/alexa_linkedAccountTwitter#readme",
+  "homepage": "https://github.com/eercanayar/alexa-skill-linked-account-twitter-nodejs#readme",
   "dependencies": {
     "alexa-sdk": "^1.0.11",
     "twitter": "^1.7.1"
